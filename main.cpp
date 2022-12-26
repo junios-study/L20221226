@@ -25,5 +25,8 @@ int main()
 	Number = (int)(2.1f);
 	Number = static_cast<int>(2.1f);
 
+
+
+
 	return 0;
 }
